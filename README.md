@@ -8,9 +8,6 @@ And out of passion (and the need create this for a job assessment) I created thi
 ## Build status
 
 This will continually be improved as I improve my skills in the above languages. 
- 
-## Screenshots
-Include logo/demo screenshot etc.
 
 ## Installation
 Requires Python installation - should already be installed on systems with macOS. 
