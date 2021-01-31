@@ -10,6 +10,10 @@ And out of passion (and the need create this for a job assessment) I created thi
 This will continually be improved as I improve my skills in the above languages. 
 
 ## Installation
+
+More Information for both Windows and Mac Installations of Python
+https://realpython.com/installing-python/
+
 Requires Python installation - should already be installed on systems with macOS. 
 Packages used: 
 Pandas
