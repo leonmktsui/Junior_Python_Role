@@ -28,6 +28,9 @@ Then type "python profit_and_loss.py"
 
 The script will run and the sample dataset will be analysed for Current Positions, Profit and Loss (Realised and Unrealised) including a breakdown list of trades you made at a profit or loss.
 
+## Git Clone URL
+git clone https://github.com/leonmktsui/Junior_Python_Role.git
+
 #### Anything else that seems useful
 
 MIT © [Leon Tsui]()
